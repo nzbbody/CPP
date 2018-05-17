@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<count>2</count>
+	<tempstatistics>
+		<enable>1</enable>
+		<name>11</name>
+		<metertype>1</metertype>
+		<period>1</period>
+	</tempstatistics>
+	<tempstatistics>
+		<enable>2</enable>
+		<name>222</name>
+		<metertype>2</metertype>
+		<period>2222</period>
+	</tempstatistics>
+</root>

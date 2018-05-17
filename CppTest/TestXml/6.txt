@@ -1,0 +1,46 @@
+<root>
+	<plan operate="0" id="0" intparam1="1" strparam1="hello" desc="test1" orgid="" orgnamepath="">
+		<route operate="0">
+			<task  id="0" seqid="3" name="task1" type="0" targetcode="dvr70" status="4">
+				<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+					<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+					<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+					<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+				</point>
+				<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+					<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+					<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+					<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+				</point>
+			</task>
+			
+			<task  id="0" seqid="3" name="task1" type="0" targetcode="dvr70" status="4">
+				<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+					<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+					<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+					<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+				</point>
+				<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+					<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+					<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+					<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+				</point>
+			</task>
+		</route>
+		
+		
+		<timetemplate operate="0" id="0" type="0" desc="">
+			<config>
+				<day type = 0天、周、月、once>
+				    <time type = 0 ><time>
+				</day>
+				
+				<day type = 0天、周、月、once>
+				</day>
+			</config>
+		</timetemplate>		
+	</plan>
+	
+	
+	
+</root>

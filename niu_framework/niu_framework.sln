@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "niu_framework", "niu_framework\niu_framework.vcproj", "{ABC28EE3-A23A-4AF4-87D1-0A50962BA32D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "niu_framework_test", "niu_framework_test\niu_framework_test.vcproj", "{1C1F8C8E-DE1A-437D-989A-D7444C3B87B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC28EE3-A23A-4AF4-87D1-0A50962BA32D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABC28EE3-A23A-4AF4-87D1-0A50962BA32D}.Debug|Win32.Build.0 = Debug|Win32
+		{ABC28EE3-A23A-4AF4-87D1-0A50962BA32D}.Release|Win32.ActiveCfg = Release|Win32
+		{ABC28EE3-A23A-4AF4-87D1-0A50962BA32D}.Release|Win32.Build.0 = Release|Win32
+		{1C1F8C8E-DE1A-437D-989A-D7444C3B87B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C1F8C8E-DE1A-437D-989A-D7444C3B87B5}.Debug|Win32.Build.0 = Debug|Win32
+		{1C1F8C8E-DE1A-437D-989A-D7444C3B87B5}.Release|Win32.ActiveCfg = Release|Win32
+		{1C1F8C8E-DE1A-437D-989A-D7444C3B87B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

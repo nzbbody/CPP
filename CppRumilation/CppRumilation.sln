@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy", "Proxy\Proxy.vcproj", "{78D51283-7661-4799-979E-73BE852E6EE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Handle_1", "Handle_1\Handle_1.vcproj", "{93CBAE51-575C-43BA-88B3-BF7C9A09804F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Handle_2", "Handle_2\Handle_2.vcproj", "{0E92BBB8-CFF5-42E7-BB84-0E0AC2B50F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D51283-7661-4799-979E-73BE852E6EE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78D51283-7661-4799-979E-73BE852E6EE0}.Debug|Win32.Build.0 = Debug|Win32
+		{78D51283-7661-4799-979E-73BE852E6EE0}.Release|Win32.ActiveCfg = Release|Win32
+		{78D51283-7661-4799-979E-73BE852E6EE0}.Release|Win32.Build.0 = Release|Win32
+		{93CBAE51-575C-43BA-88B3-BF7C9A09804F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93CBAE51-575C-43BA-88B3-BF7C9A09804F}.Debug|Win32.Build.0 = Debug|Win32
+		{93CBAE51-575C-43BA-88B3-BF7C9A09804F}.Release|Win32.ActiveCfg = Release|Win32
+		{93CBAE51-575C-43BA-88B3-BF7C9A09804F}.Release|Win32.Build.0 = Release|Win32
+		{0E92BBB8-CFF5-42E7-BB84-0E0AC2B50F5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E92BBB8-CFF5-42E7-BB84-0E0AC2B50F5C}.Debug|Win32.Build.0 = Debug|Win32
+		{0E92BBB8-CFF5-42E7-BB84-0E0AC2B50F5C}.Release|Win32.ActiveCfg = Release|Win32
+		{0E92BBB8-CFF5-42E7-BB84-0E0AC2B50F5C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

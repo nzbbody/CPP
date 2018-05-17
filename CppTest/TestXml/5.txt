@@ -1,0 +1,27 @@
+<root>
+	<task operate="1" id="1" seqid="1" name="1" type="1" targetcode="1" status="1">
+		<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+			<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+			<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+			<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+		</point>
+		<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+			<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+			<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+			<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+		</point>
+	</task>
+	
+	<task operate="2" id="2" seqid="2" name="2" type="2" targetcode="2" status="2">
+		<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+			<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+			<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+			<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+		</point>
+		<point operate="0" id="0" seqid="3" name="point1" targetcode="dvr70" type="0" staytime="3" desc="">
+			<action operate="1" id="1" seqid="1" type="4" desc="action1"/>
+			<action operate="1" id="2" seqid="3" type="4" desc="action1"/>
+			<action operate="1" id="3" seqid="2" type="4" desc="action1"/>
+		</point>
+	</task>
+</root>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<count>2</count>
+	<radiometryrule>
+		<enable>0</enable>
+		<presetid>0</presetid>
+		<ruleid>0</ruleid>
+		<name/>
+		<metertype>0</metertype>
+		<coordinatecount>3</coordinatecount>
+		<point x="0" y="0"/>
+		<point x="0" y="0"/>
+		<point x="0" y="0"/>
+		<sampleperiod>0</sampleperiod>
+		<alarmsetcount>4</alarmsetcount>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometrylocalparam enable="0" objectemissivity="0.000000" objectdistance="0" refalectedtemp="0"/>
+	</radiometryrule>
+	<radiometryrule>
+		<enable>0</enable>
+		<presetid>0</presetid>
+		<ruleid>0</ruleid>
+		<name/>
+		<metertype>0</metertype>
+		<coordinatecount>0</coordinatecount>
+		<point x="0" y="0"/>
+		<point x="0" y="0"/>
+		<point x="0" y="0"/>
+		<sampleperiod>0</sampleperiod>
+		<alarmsetcount>0</alarmsetcount>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometryalarmset id="0" enable="0" resulttype="0" alarmcondition="0" threshold="0.000000" hysteresis="0.000000" duration="0"/>
+		<radiometrylocalparam enable="0" objectemissivity="0.000000" objectdistance="0" refalectedtemp="0"/>
+	</radiometryrule>
+</root>

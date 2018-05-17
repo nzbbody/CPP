@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CppTest">
+</Property><Property Name="解决方案文件" Value="F:\Temp\NiuzbRepository\trunk\C++\CppTest\CppTest.sln">
+</Property><Property Name="用户选项文件" Value="F:\Temp\NiuzbRepository\trunk\C++\CppTest\CppTest.suo">
+</Property><Property Name="Date" Value="2018年5月7日">
+</Property><Property Name="Time" Value="16:42">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="CppTest.sln" Description="创建备份文件 F:\Temp\NiuzbRepository\trunk\C++\CppTest\CppTest.sln.old 时出错">
+</Event><Event ErrorLevel="0" Project="" Source="CppTest.suo" Description="文件已成功备份为 F:\Temp\NiuzbRepository\trunk\C++\CppTest\CppTest.suo.old">
+</Event><Event ErrorLevel="3" Project="TestOdbc" Source="TestOdbc\TestOdbc.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestOdbc_2" Source="TestOdbc2\TestOdbc_2.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestString" Source="TestString\TestString.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestInherit" Source="TestInherit\TestInherit.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="NzbUtils" Source="NzbUtils\NzbUtils.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="CppUtils" Source="CppUtils\CppUtils.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestXml" Source="TestXml\TestXml.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestRapidXml" Source="TestRapidXml\TestRapidXml.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestCompile" Source="TestCompile\TestCompile.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Data13To14" Source="Data13To14\Data13To14.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestStackHeap" Source="TestStackHeap\TestStackHeap.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestBase64" Source="TestBase64\TestBase64.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="OptFile" Source="OptFile\OptFile.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestLink" Source="TestLink\TestLink.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestCompileByBat" Source="TestCompileByBat\TestCompileByBat.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestX64" Source="TestX64\TestX64.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestRunTimeLib" Source="TestRunTimeLib\TestRunTimeLib.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="testdump" Source="testdump\testdump.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="TestStatic" Source="TestStatic\TestStatic.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Telnet" Source="Telnet\Telnet.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="NiuLog" Source="..\NiuLog\NiuLog\NiuLog.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="Test1" Source="Test1\Test1.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\CppTest\Test1\Test1.vcproj'.">
+</Event><Event ErrorLevel="2" Project="Test1" Source="Test1\Test1.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\CppTest\Test1\Test1.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="Test1" Source="Test1\Test1.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="Test1" Source="Test1\Test1.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="" Source="CppTest.sln" Description="解决方案文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="" Source="CppTest.sln" Description="无需转换">
+</Event></UpgradeLog>

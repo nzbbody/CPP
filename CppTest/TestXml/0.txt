@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<modecount>1</modecount>
+	<thermographyoption>
+		<ezoom>0</ezoom>
+		<thermographygamma>3</thermographygamma>
+		<colorization>3</colorization>
+		<smartoptimizer>15</smartoptimizer>
+		<isoptimizedregion>1</isoptimizedregion>
+		<optimizedroitype>1</optimizedroitype>
+		<customregion>0</customregion>
+		<rectangle left="1" right="1" top="1" bottom="1"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="32" right="32" top="32" bottom="32"/>
+		<reserved/>
+	</thermographyoption>
+	<thermographyoption>
+		<ezoom>456</ezoom>
+		<thermographygamma>3</thermographygamma>
+		<colorization>3</colorization>
+		<smartoptimizer>15</smartoptimizer>
+		<isoptimizedregion>1</isoptimizedregion>
+		<optimizedroitype>1</optimizedroitype>
+		<customregion>0</customregion>
+		<rectangle left="101" right="1" top="1" bottom="1"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="0" right="0" top="0" bottom="0"/>
+		<rectangle left="32" right="32" top="32" bottom="302"/>
+		<reserved/>
+	</thermographyoption>
+</root>

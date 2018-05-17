@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibDllTest">
+</Property><Property Name="解决方案文件" Value="F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\LibDllTest.sln">
+</Property><Property Name="Date" Value="2018年4月27日">
+</Property><Property Name="Time" Value="8:41">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="LibDllTest.sln" Description="创建备份文件 F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\LibDllTest.sln.old 时出错">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test\Test.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Lib1" Source="Lib1\Lib1.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Lib2" Source="Lib2\Lib2.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Dll1" Source="Dll1\Dll1.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="3" Project="Dll2" Source="Dll2\Dll2.vcxproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="TestRunTimeLib" Source="TestRunTimeLib\TestRunTimeLib.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestRunTimeLib\TestRunTimeLib.vcproj'.">
+</Event><Event ErrorLevel="2" Project="TestRunTimeLib" Source="TestRunTimeLib\TestRunTimeLib.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestRunTimeLib\TestRunTimeLib.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="TestRunTimeLib" Source="TestRunTimeLib\TestRunTimeLib.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="TestRunTimeLib" Source="TestRunTimeLib\TestRunTimeLib.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="OneLib" Source="OneLib\OneLib.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\OneLib\OneLib.vcproj'.">
+</Event><Event ErrorLevel="2" Project="OneLib" Source="OneLib\OneLib.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\OneLib\OneLib.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="OneLib" Source="OneLib\OneLib.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="OneLib" Source="OneLib\OneLib.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="TwoLib" Source="TwoLib\TwoLib.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TwoLib\TwoLib.vcproj'.">
+</Event><Event ErrorLevel="2" Project="TwoLib" Source="TwoLib\TwoLib.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TwoLib\TwoLib.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="TwoLib" Source="TwoLib\TwoLib.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="TwoLib" Source="TwoLib\TwoLib.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="Test2" Source="Test2\Test2.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\Test2\Test2.vcproj'.">
+</Event><Event ErrorLevel="2" Project="Test2" Source="Test2\Test2.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\Test2\Test2.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="Test2" Source="Test2\Test2.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="Test2" Source="Test2\Test2.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="OneDll" Source="OneDll\OneDll.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\OneDll\OneDll.vcproj'.">
+</Event><Event ErrorLevel="2" Project="OneDll" Source="OneDll\OneDll.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\OneDll\OneDll.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="OneDll" Source="OneDll\OneDll.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="OneDll" Source="OneDll\OneDll.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="TestOneDll" Source="TestOneDll\TestOneDll.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestOneDll\TestOneDll.vcproj'.">
+</Event><Event ErrorLevel="2" Project="TestOneDll" Source="TestOneDll\TestOneDll.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestOneDll\TestOneDll.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="TestOneDll" Source="TestOneDll\TestOneDll.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="TestOneDll" Source="TestOneDll\TestOneDll.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="TestOneDll_2" Source="TestOneDll_2\TestOneDll_2.vcproj" Description="Converting project file 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestOneDll_2\TestOneDll_2.vcproj'.">
+</Event><Event ErrorLevel="2" Project="TestOneDll_2" Source="TestOneDll_2\TestOneDll_2.vcproj" Description="File 'F:\Temp\NiuzbRepository\trunk\C++\LibDllTest\TestOneDll_2\TestOneDll_2.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="TestOneDll_2" Source="TestOneDll_2\TestOneDll_2.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="TestOneDll_2" Source="TestOneDll_2\TestOneDll_2.vcproj" Description="未转换">
+</Event><Event ErrorLevel="0" Project="" Source="LibDllTest.sln" Description="解决方案文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="" Source="LibDllTest.sln" Description="无需转换">
+</Event></UpgradeLog>

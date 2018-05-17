@@ -1,0 +1,12 @@
+<root>
+	<point operate="1" id="1" seqid="1" name="1" targetcode="1" type="1" staytime="1" desc="1">
+		<action operate="1" id="1" seqid="1" type="1" desc="1"/>
+		<action operate="2" id="2" seqid="2" type="2" desc="2"/>
+		<action operate="3" id="3" seqid="3" type="3" desc="3"/>
+	</point>
+	<point operate="2" id="2" seqid="2" name="2" targetcode="2" type="2" staytime="2" desc="2">
+		<action operate="4" id="4" seqid="4" type="4" desc="4"/>
+		<action operate="5" id="5" seqid="5" type="5" desc="5"/>
+		<action operate="6" id="6" seqid="6" type="6" desc="6"/>
+	</point>
+</root>

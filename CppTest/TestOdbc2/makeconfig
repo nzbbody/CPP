@@ -1,0 +1,76 @@
+# Copyright (c) 2013, 浙江大华系统工程公司
+# All rights reserved.
+# 摘　　要：这个是makefile的公用文件，所有的makefile都包含这个文件
+# 在这个文件里定义所有makefile通用的配置项
+# 当前版本：1.0
+# 原作者　：汪德奇
+# 完成日期：2013年07月18日
+# 修订记录：创建
+# 2014-3-26 白晶 增加生成ARM架构下程序的编译 
+
+#编译器和参数
+ifeq "$(CPU_ARCH)" "arm"
+	CC=arm-none-linux-gnueabi-gcc
+	CXX=arm-none-linux-gnueabi-g++
+	AR=arm-none-linux-gnueabi-ar
+	LD=arm-none-linux-gnueabi-g++	
+	SHLD=arm-none-linux-gnueabi-g++
+	LIBPATH=$(IBP_HOME)/lib_arm/common
+	TARGET_BASEPATH=$(IBP_HOME)/lib_arm
+else
+	CC=gcc
+	CXX=g++
+	AR=ld -r -o
+	LD=g++	
+	IBPLIBS=rt dl 
+	SHLD=g++	
+	LIBPATH=$(IBP_HOME)/lib_linux/common	
+	TARGET_BASEPATH=$(IBP_HOME)/lib_linux
+endif
+
+DEBUG=1
+INCLUDEPATH =
+CFLAGS=  -Wall
+CXXFLAGS=  -Wall
+LDFLAGS=
+ARFLAGS= -rv
+SHLDFLAGS=-shared 
+CP=cp -r 
+
+#操作系统
+OS=$(shell uname)
+
+ifeq "$(OS)" "Linux"
+	DLIBTAIL=.so
+	SLIBTAIL=.a
+	CXXFLAGS += -DLINUX
+	MKDIR=mkdir
+else
+	DLIBTAIL=.dll
+	SLIBTAIL=.lib
+	CXXFLAGS += -DWIN32
+	MKDIR=mkdir
+endif
+
+ifeq "$(DEBUG)" "1"
+	CFLAGS += -g -DDEBUG
+	CXXFLAGS += -g -DDEBUG
+else
+	CFLAGS += -g -DDEBUG
+	CXXFLAGS += -O2 -Os
+endif
+
+LDFLAGS+= $(addprefix -L,$(LIBPATH)) $(addprefix -l,$(IBPLIBS)) $(addprefix -l,$(SYSLIBS))
+SHLDFLAGS+= $(LDFLAGS)
+CXXFLAGS += -I./include $(addprefix -I,$(INCLUDEPATH))
+CFLAGS += -I./include $(addprefix -I,$(INCLUDEPATH))
+
+getdynamiclib=$(addprefix lib, $(addsuffix $(DLIBTAIL), $(1)))
+getlibname=$(addprefix lib, $(addsuffix $(DLIBTAIL), $(1)))
+getlinklib=$(addprefix -l, $(1))
+getstaticlib=$(addprefix lib, $(addsuffix $(SLIBTAIL), $(1)))
+getbin=$(1)
+
+.PHONY: clean install rebuild all
+
+#rebuild: clean all

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NiuLog", "NiuLog\NiuLog.vcproj", "{E0960E4E-32C0-4E49-A980-F8CFF6E24F8B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestNiuLog", "TestNiuLog\TestNiuLog.vcproj", "{7E085CB6-7995-42A0-89A0-EDE718E46195}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0960E4E-32C0-4E49-A980-F8CFF6E24F8B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0960E4E-32C0-4E49-A980-F8CFF6E24F8B}.Debug|Win32.Build.0 = Debug|Win32
+		{E0960E4E-32C0-4E49-A980-F8CFF6E24F8B}.Release|Win32.ActiveCfg = Release|Win32
+		{E0960E4E-32C0-4E49-A980-F8CFF6E24F8B}.Release|Win32.Build.0 = Release|Win32
+		{7E085CB6-7995-42A0-89A0-EDE718E46195}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E085CB6-7995-42A0-89A0-EDE718E46195}.Debug|Win32.Build.0 = Debug|Win32
+		{7E085CB6-7995-42A0-89A0-EDE718E46195}.Release|Win32.ActiveCfg = Release|Win32
+		{7E085CB6-7995-42A0-89A0-EDE718E46195}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

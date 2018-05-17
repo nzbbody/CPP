@@ -1,0 +1,81 @@
+﻿生成启动时间为 2018/5/7 16:43:55。
+     1>项目“F:\Temp\NiuzbRepository\trunk\C++\CppTest\TestXml\TestXml.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\TestXml.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp xml_utils.cpp
+         xml_utils.cpp
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(216): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(232): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(233): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(235): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(273): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(334): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(354): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(382): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(383): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(383): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(383): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(409): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(436): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(437): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(437): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(437): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(453): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(457): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(465): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(510): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(511): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(511): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(511): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(539): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(540): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(540): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(540): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(568): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(569): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(569): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(569): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(809): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(810): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(810): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(810): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(864): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(865): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(865): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+     1>f:\temp\niuzbrepository\trunk\c++\cpptest\testxml\xml_utils.cpp(865): warning C4244: “参数”: 从“fpos_t”转换到“size_t”，可能丢失数据
+         main.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TestXml.exe.embed.manifest.res" Debug\TestXml_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestXml.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.lib" /MACHINE:X86 Debug\TestXml.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\xml_utils.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TestXml.exe.embed.manifest" /manifest Debug\TestXml.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TestXml.exe.embed.manifest.res" Debug\TestXml_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestXml.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.lib" /MACHINE:X86 Debug\TestXml.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\xml_utils.obj
+         TestXml.vcxproj -> F:\Temp\NiuzbRepository\trunk\C++\CppTest\Debug\TestXml.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TestXml.unsuccessfulbuild”。
+         正在对“Debug\TestXml.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\Temp\NiuzbRepository\trunk\C++\CppTest\TestXml\TestXml.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.07

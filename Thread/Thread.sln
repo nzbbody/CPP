@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread", "Thread\Thread.vcproj", "{C9225746-E015-4BA5-B640-F88F331C8FE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPrintf", "TestPrintf\TestPrintf.vcproj", "{DF78E073-E103-4F58-84E3-2A3AE16ADA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9225746-E015-4BA5-B640-F88F331C8FE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9225746-E015-4BA5-B640-F88F331C8FE0}.Debug|Win32.Build.0 = Debug|Win32
+		{C9225746-E015-4BA5-B640-F88F331C8FE0}.Release|Win32.ActiveCfg = Release|Win32
+		{C9225746-E015-4BA5-B640-F88F331C8FE0}.Release|Win32.Build.0 = Release|Win32
+		{DF78E073-E103-4F58-84E3-2A3AE16ADA28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF78E073-E103-4F58-84E3-2A3AE16ADA28}.Debug|Win32.Build.0 = Debug|Win32
+		{DF78E073-E103-4F58-84E3-2A3AE16ADA28}.Release|Win32.ActiveCfg = Release|Win32
+		{DF78E073-E103-4F58-84E3-2A3AE16ADA28}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

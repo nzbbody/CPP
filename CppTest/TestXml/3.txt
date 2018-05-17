@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<root>
+	<relativehumidity>1</relativehumidity>
+	<atmospherictemperature>2</atmospherictemperature>
+	<objectemissivity>3</objectemissivity>
+	<objectdistance>4</objectdistance>
+	<reflectedtemperature>5</reflectedtemperature>
+	<temperatureunit>6</temperatureunit>
+	<isothermenable>7</isothermenable>
+	<colorbarmax>8</colorbarmax>
+	<colorbarmin>9</colorbarmin>
+	<colorbardisplay>10</colorbardisplay>
+	<hotspotfollow>11</hotspotfollow>
+	<temperenable>12</temperenable>
+</root>
